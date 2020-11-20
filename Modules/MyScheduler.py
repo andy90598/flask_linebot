@@ -10,7 +10,7 @@ def sensor():
 def MyScheduler():
     sched = BackgroundScheduler(daemon=True)
     interval = IntervalTrigger(
-        minutes=10,
+        seconds=10,
         start_date='2019-4-24 08:00:00',
         end_date='2099-4-24 08:00:00',
         timezone='Asia/Shanghai')
