@@ -3,7 +3,7 @@ import json
 import os
 def ReplyMessage(replyToken,messages):
     #請使用自己的token
-    accessToken = os.environ.get('ACCESS_TOKEN', None)  
+    accessToken = os.environ.get('ACCESSTOKEN', None)  
     
     headers ={
         'Content-Type':'application/json',
