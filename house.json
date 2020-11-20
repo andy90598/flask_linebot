@@ -1,0 +1,461 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "昆陽站.中研院.南港.近信義區.101",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/10/15/160274770519531400_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-9964967.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "近台北商業大學.床位6500",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp2.591.com.tw/house/active/2020/09/24/160091669263452601_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-9965071.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "歡迎家庭正職上班族合租附家電市府站1分鐘",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp2.591.com.tw/house/active/2020/10/24/160353142406591475_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10005920.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "自租／正內湖捷運站旁／靜巷／新裝修泠氣全",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/09/05/159930671614357201_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10034395.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "降價！超近劍潭內湖大直、東吳銘傳文化5分",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/09/06/159940521204874604_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10053311.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "【古亭捷運】安靜-雙對外窗-美麗陽光",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/11/05/160454866646959602_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-9958698.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "東區頂好商圈大套房不租可惜",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2014/07/04/140446775074539008_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10099740.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "~短期住宿~林森時尚套房(一卡皮箱即住)",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp2.591.com.tw/house/active/2020/09/04/159915182184336605_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10049671.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "不看會後悔!超值行天宮捷運溫馨精緻美屋",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2014/08/09/140754959316271101_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10098315.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "機械車位出租-世貿IC大樓近永春捷運站",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp2.591.com.tw/house/active/2020/09/21/160065962619235502_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10079336.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "租出去,下次請早,北車站全新一房一廳套房",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/10/25/160362855596655903_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10053671.html"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "包電獨立安靜套房、水泥牆、近光華商圈",
+                        "align": "center",
+                        "wrap": true,
+                        "contents": []
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://hp1.591.com.tw/house/active/2020/11/12/160516758222176029_210x158.crop.jpg",
+                "size": "full",
+                "aspectRatio": "1.51:1",
+                "aspectMode": "cover"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "查看詳細",
+                            "uri": "https://rent.591.com.tw/rent-detail-10096740.html"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

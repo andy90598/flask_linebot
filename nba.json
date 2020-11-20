@@ -1,0 +1,1674 @@
+{
+    "players": [
+        {
+            "name": "Alaa Abdelnaby",
+            "from": "1991",
+            "to": "1995",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 108.86,
+            "birthday": "1968/06/24",
+            "college": ["Duke"]
+        },
+        {
+            "name": "Zaid Abdul-Aziz",
+            "from": "1969",
+            "to": "1978",
+            "position": ["C", "F"],
+            "height": 205.74,
+            "weight": 106.59,
+            "birthday": "1946/04/07",
+            "college": ["Iowa State"]
+        },
+        {
+            "name": "Kareem Abdul-Jabbar*",
+            "from": "1970",
+            "to": "1989",
+            "position": ["C"],
+            "height": 218.44,
+            "weight": 102.06,
+            "birthday": "1947/04/16",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Mahmoud Abdul-Rauf",
+            "from": "1991",
+            "to": "2001",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 73.48,
+            "birthday": "1969/03/09",
+            "college": ["LSU"]
+        },
+        {
+            "name": "Tariq Abdul-Wahad",
+            "from": "1998",
+            "to": "2003",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 101.15,
+            "birthday": "1974/11/03",
+            "college": ["Michigan", " San Jose State"]
+        },
+        {
+            "name": "Shareef Abdur-Rahim",
+            "from": "1997",
+            "to": "2008",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 102.06,
+            "birthday": "1976/12/11",
+            "college": ["California"]
+        },
+        {
+            "name": "Tom Abernethy",
+            "from": "1977",
+            "to": "1981",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 99.79,
+            "birthday": "1954/05/06",
+            "college": ["Indiana"]
+        },
+        {
+            "name": "Forest Able",
+            "from": "1957",
+            "to": "1957",
+            "position": ["G"],
+            "height": 190.5,
+            "weight": 81.65,
+            "birthday": "1932/07/27",
+            "college": ["Western Kentucky"]
+        },
+        {
+            "name": "John Abramovic",
+            "from": "1947",
+            "to": "1948",
+            "position": ["F"],
+            "height": 190.5,
+            "weight": 88.45,
+            "birthday": "1919/02/09",
+            "college": ["Salem International University"]
+        },
+        {
+            "name": "Álex Abrines",
+            "from": "2017",
+            "to": "2019",
+            "position": ["G", "F"],
+            "height": 198.12,
+            "weight": 90.72,
+            "birthday": "1993/08/01",
+            "college": [""]
+        },
+        {
+            "name": "Alex Acker",
+            "from": "2006",
+            "to": "2009",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 83.91,
+            "birthday": "1983/01/21",
+            "college": ["Pepperdine"]
+        },
+        {
+            "name": "Don Ackerman",
+            "from": "1954",
+            "to": "1954",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 83.01,
+            "birthday": "1930/09/04",
+            "college": ["Long Island University"]
+        },
+        {
+            "name": "Mark Acres",
+            "from": "1988",
+            "to": "1993",
+            "position": ["F", "C"],
+            "height": 210.82,
+            "weight": 99.79,
+            "birthday": "1962/11/15",
+            "college": ["Oral Roberts"]
+        },
+        {
+            "name": "Bud Acton",
+            "from": "1968",
+            "to": "1968",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 95.25,
+            "birthday": "1942/01/11",
+            "college": ["Hillsdale College"]
+        },
+        {
+            "name": "Quincy Acy",
+            "from": "2013",
+            "to": "2019",
+            "position": ["F", "C"],
+            "height": 200.66,
+            "weight": 108.86,
+            "birthday": "1990/10/06",
+            "college": ["Baylor"]
+        },
+        {
+            "name": "Alvan Adams",
+            "from": "1976",
+            "to": "1988",
+            "position": ["C", "F"],
+            "height": 205.74,
+            "weight": 95.25,
+            "birthday": "1954/07/19",
+            "college": ["Oklahoma"]
+        },
+        {
+            "name": "Don Adams",
+            "from": "1971",
+            "to": "1977",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 95.25,
+            "birthday": "1947/11/27",
+            "college": ["Northwestern"]
+        },
+        {
+            "name": "George Adams",
+            "from": "1973",
+            "to": "1975",
+            "position": ["F", "G"],
+            "height": 195.58,
+            "weight": 95.25,
+            "birthday": "1949/05/15",
+            "college": ["Gardner-Webb University"]
+        },
+        {
+            "name": "Hassan Adams",
+            "from": "2007",
+            "to": "2009",
+            "position": ["G"],
+            "height": 193.04,
+            "weight": 99.79,
+            "birthday": "1984/06/20",
+            "college": ["Arizona"]
+        },
+        {
+            "name": "Jaylen Adams",
+            "from": "2019",
+            "to": "2019",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 86.18,
+            "birthday": "1996/05/04",
+            "college": ["St. Bonaventure"]
+        },
+        {
+            "name": "Jordan Adams",
+            "from": "2015",
+            "to": "2016",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 94.8,
+            "birthday": "1994/07/08",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Michael Adams",
+            "from": "1986",
+            "to": "1996",
+            "position": ["G"],
+            "height": 177.8,
+            "weight": 73.48,
+            "birthday": "1963/01/19",
+            "college": ["Boston College"]
+        },
+        {
+            "name": "Steven Adams",
+            "from": "2014",
+            "to": "2020",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 120.2,
+            "birthday": "1993/07/20",
+            "college": ["Pitt"]
+        },
+        {
+            "name": "Rafael Addison",
+            "from": "1987",
+            "to": "1997",
+            "position": ["F", "G"],
+            "height": 200.66,
+            "weight": 97.52,
+            "birthday": "1964/07/22",
+            "college": ["Syracuse"]
+        },
+        {
+            "name": "Bam Adebayo",
+            "from": "2018",
+            "to": "2020",
+            "position": ["C", "F"],
+            "height": 205.74,
+            "weight": 115.67,
+            "birthday": "1997/07/18",
+            "college": ["Kentucky"]
+        },
+        {
+            "name": "Deng Adel",
+            "from": "2019",
+            "to": "2019",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 90.72,
+            "birthday": "1997/02/01",
+            "college": ["Louisville"]
+        },
+        {
+            "name": "Rick Adelman",
+            "from": "1969",
+            "to": "1975",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 79.38,
+            "birthday": "1946/06/16",
+            "college": ["Loyola Marymount"]
+        },
+        {
+            "name": "Jeff Adrien",
+            "from": "2011",
+            "to": "2015",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 111.13,
+            "birthday": "1986/02/10",
+            "college": ["UConn"]
+        },
+        {
+            "name": "Arron Afflalo",
+            "from": "2008",
+            "to": "2018",
+            "position": ["G", "F"],
+            "height": 195.58,
+            "weight": 95.25,
+            "birthday": "1985/10/15",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Maurice Ager",
+            "from": "2007",
+            "to": "2011",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 91.63,
+            "birthday": "1984/02/09",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Mark Aguirre",
+            "from": "1982",
+            "to": "1994",
+            "position": ["F", "G"],
+            "height": 198.12,
+            "weight": 105.23,
+            "birthday": "1959/12/10",
+            "college": ["DePaul"]
+        },
+        {
+            "name": "Blake Ahearn",
+            "from": "2008",
+            "to": "2012",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 86.18,
+            "birthday": "1984/05/27",
+            "college": ["Missouri State University"]
+        },
+        {
+            "name": "Danny Ainge",
+            "from": "1982",
+            "to": "1995",
+            "position": ["G"],
+            "height": 193.04,
+            "weight": 79.38,
+            "birthday": "1959/03/17",
+            "college": ["BYU"]
+        },
+        {
+            "name": "Matthew Aitch",
+            "from": "1968",
+            "to": "1968",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 104.33,
+            "birthday": "1944/09/21",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Alexis Ajinça",
+            "from": "2009",
+            "to": "2017",
+            "position": ["C", "F"],
+            "height": 218.44,
+            "weight": 112.49,
+            "birthday": "1988/05/06",
+            "college": [""]
+        },
+        {
+            "name": "Henry Akin",
+            "from": "1967",
+            "to": "1969",
+            "position": ["C", "F"],
+            "height": 208.28,
+            "weight": 102.06,
+            "birthday": "1944/07/31",
+            "college": ["Morehead State University"]
+        },
+        {
+            "name": "Josh Akognon",
+            "from": "2013",
+            "to": "2013",
+            "position": ["G"],
+            "height": 180.34,
+            "weight": 83.91,
+            "birthday": "1986/02/10",
+            "college": ["Washington State", " Cal State Fullerton"]
+        },
+        {
+            "name": "DeVaughn Akoon-Purcell",
+            "from": "2019",
+            "to": "2019",
+            "position": ["G"],
+            "height": 198.12,
+            "weight": 90.72,
+            "birthday": "1993/06/05",
+            "college": ["Illinois State"]
+        },
+        {
+            "name": "Solomon Alabi",
+            "from": "2011",
+            "to": "2012",
+            "position": ["C"],
+            "height": 215.9,
+            "weight": 113.85,
+            "birthday": "1988/03/21",
+            "college": ["Florida State"]
+        },
+        {
+            "name": "Mark Alarie",
+            "from": "1987",
+            "to": "1991",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 98.43,
+            "birthday": "1963/12/11",
+            "college": ["Duke"]
+        },
+        {
+            "name": "Gary Alcorn",
+            "from": "1960",
+            "to": "1961",
+            "position": ["C"],
+            "height": 205.74,
+            "weight": 102.06,
+            "birthday": "1936/10/08",
+            "college": ["Fresno State"]
+        },
+        {
+            "name": "Furkan Aldemir",
+            "from": "2015",
+            "to": "2015",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 108.86,
+            "birthday": "1991/08/09",
+            "college": [""]
+        },
+        {
+            "name": "Cole Aldrich",
+            "from": "2011",
+            "to": "2018",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 113.4,
+            "birthday": "1988/10/31",
+            "college": ["Kansas"]
+        },
+        {
+            "name": "LaMarcus Aldridge",
+            "from": "2007",
+            "to": "2020",
+            "position": ["F", "C"],
+            "height": 210.82,
+            "weight": 113.4,
+            "birthday": "1985/07/19",
+            "college": ["Texas"]
+        },
+        {
+            "name": "Chuck Aleksinas",
+            "from": "1985",
+            "to": "1985",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 117.93,
+            "birthday": "1959/02/26",
+            "college": ["Kentucky", " UConn"]
+        },
+        {
+            "name": "Cliff Alexander",
+            "from": "2016",
+            "to": "2016",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 111.13,
+            "birthday": "1995/11/16",
+            "college": ["Kansas"]
+        },
+        {
+            "name": "Cory Alexander",
+            "from": "1996",
+            "to": "2005",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 83.91,
+            "birthday": "1973/06/22",
+            "college": ["Virginia"]
+        },
+        {
+            "name": "Courtney Alexander",
+            "from": "2001",
+            "to": "2003",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 92.99,
+            "birthday": "1977/04/27",
+            "college": ["Virginia", " Fresno State"]
+        },
+        {
+            "name": "Gary Alexander",
+            "from": "1994",
+            "to": "1994",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 108.86,
+            "birthday": "1969/11/01",
+            "college": ["South Florida"]
+        },
+        {
+            "name": "Joe Alexander",
+            "from": "2009",
+            "to": "2010",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 104.33,
+            "birthday": "1986/12/26",
+            "college": ["West Virginia"]
+        },
+        {
+            "name": "Kyle Alexander",
+            "from": "2020",
+            "to": "2020",
+            "position": ["F"],
+            "height": 210.82,
+            "weight": 99.79,
+            "birthday": "1996/10/21",
+            "college": ["Tennessee"]
+        },
+        {
+            "name": "Victor Alexander",
+            "from": "1992",
+            "to": "2002",
+            "position": ["C", "F"],
+            "height": 205.74,
+            "weight": 120.2,
+            "birthday": "1969/08/31",
+            "college": ["Iowa State"]
+        },
+        {
+            "name": "Nickeil Alexander-Walker",
+            "from": "2020",
+            "to": "2020",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 92.99,
+            "birthday": "1998/09/02",
+            "college": ["Virginia Tech"]
+        },
+        {
+            "name": "Steve Alford",
+            "from": "1988",
+            "to": "1991",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 83.01,
+            "birthday": "1964/11/23",
+            "college": ["Indiana"]
+        },
+        {
+            "name": "Rawle Alkins",
+            "from": "2019",
+            "to": "2019",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 102.06,
+            "birthday": "1997/10/29",
+            "college": ["Arizona"]
+        },
+        {
+            "name": "Bill Allen",
+            "from": "1968",
+            "to": "1968",
+            "position": ["C", "F"],
+            "height": 203.2,
+            "weight": 92.99,
+            "birthday": null,
+            "college": ["New Mexico State"]
+        },
+        {
+            "name": "Bob Allen",
+            "from": "1969",
+            "to": "1969",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 92.99,
+            "birthday": "1946/07/17",
+            "college": ["Marshall"]
+        },
+        {
+            "name": "Grayson Allen",
+            "from": "2019",
+            "to": "2020",
+            "position": ["G"],
+            "height": 193.04,
+            "weight": 89.81,
+            "birthday": "1995/10/08",
+            "college": ["Duke"]
+        },
+        {
+            "name": "Jarrett Allen",
+            "from": "2018",
+            "to": "2020",
+            "position": ["C", "F"],
+            "height": 210.82,
+            "weight": 110.22,
+            "birthday": "1998/04/21",
+            "college": ["Texas"]
+        },
+        {
+            "name": "Jerome Allen",
+            "from": "1996",
+            "to": "1997",
+            "position": ["G"],
+            "height": 193.04,
+            "weight": 83.46,
+            "birthday": "1973/01/28",
+            "college": ["Penn"]
+        },
+        {
+            "name": "Kadeem Allen",
+            "from": "2018",
+            "to": "2020",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 90.72,
+            "birthday": "1993/01/15",
+            "college": ["Arizona"]
+        },
+        {
+            "name": "Lavoy Allen",
+            "from": "2012",
+            "to": "2017",
+            "position": ["F", "C"],
+            "height": 205.74,
+            "weight": 117.93,
+            "birthday": "1989/02/04",
+            "college": ["Temple"]
+        },
+        {
+            "name": "Lucius Allen",
+            "from": "1970",
+            "to": "1979",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 79.38,
+            "birthday": "1947/09/26",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Malik Allen",
+            "from": "2002",
+            "to": "2011",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 115.67,
+            "birthday": "1978/06/27",
+            "college": ["Villanova"]
+        },
+        {
+            "name": "Randy Allen",
+            "from": "1989",
+            "to": "1990",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 99.79,
+            "birthday": "1965/01/26",
+            "college": ["Florida State"]
+        },
+        {
+            "name": "Ray Allen*",
+            "from": "1997",
+            "to": "2014",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 92.99,
+            "birthday": "1975/07/20",
+            "college": ["UConn"]
+        },
+        {
+            "name": "Tony Allen",
+            "from": "2005",
+            "to": "2018",
+            "position": ["G", "F"],
+            "height": 193.04,
+            "weight": 96.62,
+            "birthday": "1982/01/11",
+            "college": ["Butler County Community College", " Oklahoma State"]
+        },
+        {
+            "name": "Willie Allen",
+            "from": "1972",
+            "to": "1972",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 104.33,
+            "birthday": "1949/02/08",
+            "college": ["Miami (FL)"]
+        },
+        {
+            "name": "Odis Allison",
+            "from": "1972",
+            "to": "1972",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 88.45,
+            "birthday": "1949/10/02",
+            "college": ["UNLV"]
+        },
+        {
+            "name": "Lance Allred",
+            "from": "2008",
+            "to": "2008",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 113.4,
+            "birthday": "1981/02/02",
+            "college": ["Utah", " Weber State"]
+        },
+        {
+            "name": "Darrell Allums",
+            "from": "1981",
+            "to": "1981",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 99.79,
+            "birthday": "1958/09/12",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Morris Almond",
+            "from": "2008",
+            "to": "2012",
+            "position": ["G"],
+            "height": 198.12,
+            "weight": 102.06,
+            "birthday": "1985/02/02",
+            "college": ["Rice University"]
+        },
+        {
+            "name": "Derrick Alston",
+            "from": "1995",
+            "to": "1997",
+            "position": ["F"],
+            "height": 210.82,
+            "weight": 102.06,
+            "birthday": "1972/08/20",
+            "college": ["Duquesne"]
+        },
+        {
+            "name": "Rafer Alston",
+            "from": "2000",
+            "to": "2010",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 77.56,
+            "birthday": "1976/07/24",
+            "college": ["Fresno State"]
+        },
+        {
+            "name": "Peter Aluma",
+            "from": "1999",
+            "to": "1999",
+            "position": ["C"],
+            "height": 208.28,
+            "weight": 117.93,
+            "birthday": "1973/04/23",
+            "college": ["Liberty"]
+        },
+        {
+            "name": "John Amaechi",
+            "from": "1996",
+            "to": "2003",
+            "position": ["C", "F"],
+            "height": 208.28,
+            "weight": 122.47,
+            "birthday": "1970/11/26",
+            "college": ["Vanderbilt", " Penn State"]
+        },
+        {
+            "name": "Ashraf Amaya",
+            "from": "1996",
+            "to": "1997",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 104.33,
+            "birthday": "1971/11/23",
+            "college": ["Southern Illinois"]
+        },
+        {
+            "name": "Al-Farouq Aminu",
+            "from": "2011",
+            "to": "2020",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 99.79,
+            "birthday": "1990/09/21",
+            "college": ["Wake Forest"]
+        },
+        {
+            "name": "Lou Amundson",
+            "from": "2007",
+            "to": "2016",
+            "position": ["F", "C"],
+            "height": 205.74,
+            "weight": 99.79,
+            "birthday": "1982/12/07",
+            "college": ["UNLV"]
+        },
+        {
+            "name": "Bob Anderegg",
+            "from": "1960",
+            "to": "1960",
+            "position": ["F", "G"],
+            "height": 190.5,
+            "weight": 90.72,
+            "birthday": "1937/08/24",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Chris Andersen",
+            "from": "2002",
+            "to": "2017",
+            "position": ["C", "F"],
+            "height": 208.28,
+            "weight": 111.13,
+            "birthday": "1978/07/07",
+            "college": ["Blinn College"]
+        },
+        {
+            "name": "David Andersen",
+            "from": "2010",
+            "to": "2011",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 111.13,
+            "birthday": "1980/06/23",
+            "college": [""]
+        },
+        {
+            "name": "Alan Anderson",
+            "from": "2006",
+            "to": "2017",
+            "position": ["G", "F"],
+            "height": 198.12,
+            "weight": 99.79,
+            "birthday": "1982/10/16",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Andrew Anderson",
+            "from": "1968",
+            "to": "1970",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 83.46,
+            "birthday": "1945/07/06",
+            "college": ["Canisius"]
+        },
+        {
+            "name": "Antonio Anderson",
+            "from": "2010",
+            "to": "2010",
+            "position": ["G"],
+            "height": 198.12,
+            "weight": 97.52,
+            "birthday": "1985/06/05",
+            "college": ["Memphis"]
+        },
+        {
+            "name": "Cliff Anderson",
+            "from": "1968",
+            "to": "1971",
+            "position": ["G", "F"],
+            "height": 187.96,
+            "weight": 90.72,
+            "birthday": "1944/09/07",
+            "college": ["Saint Joseph's"]
+        },
+        {
+            "name": "Dan Anderson",
+            "from": "1968",
+            "to": "1969",
+            "position": ["C"],
+            "height": 208.28,
+            "weight": 104.33,
+            "birthday": "1943/02/15",
+            "college": ["Augsburg College"]
+        },
+        {
+            "name": "Dan Anderson",
+            "from": "1975",
+            "to": "1976",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 83.91,
+            "birthday": "1951/01/01",
+            "college": ["USC"]
+        },
+        {
+            "name": "Derek Anderson",
+            "from": "1998",
+            "to": "2008",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 88.0,
+            "birthday": "1974/07/18",
+            "college": ["Ohio State", " Kentucky"]
+        },
+        {
+            "name": "Dwight Anderson",
+            "from": "1983",
+            "to": "1983",
+            "position": ["G"],
+            "height": 190.5,
+            "weight": 83.91,
+            "birthday": "1960/12/28",
+            "college": ["Kentucky", " USC"]
+        },
+        {
+            "name": "Eric Anderson",
+            "from": "1993",
+            "to": "1994",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 99.79,
+            "birthday": "1970/05/26",
+            "college": ["Indiana"]
+        },
+        {
+            "name": "Greg Anderson",
+            "from": "1988",
+            "to": "1998",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 104.33,
+            "birthday": "1964/06/22",
+            "college": ["Houston"]
+        },
+        {
+            "name": "J.J. Anderson",
+            "from": "1983",
+            "to": "1985",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 88.45,
+            "birthday": "1960/09/23",
+            "college": ["Bradley"]
+        },
+        {
+            "name": "James Anderson",
+            "from": "2011",
+            "to": "2016",
+            "position": ["G", "F"],
+            "height": 198.12,
+            "weight": 96.62,
+            "birthday": "1989/03/25",
+            "college": ["Oklahoma State"]
+        },
+        {
+            "name": "Jerome Anderson",
+            "from": "1976",
+            "to": "1977",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 88.45,
+            "birthday": "1953/10/09",
+            "college": ["West Virginia"]
+        },
+        {
+            "name": "Justin Anderson",
+            "from": "2016",
+            "to": "2020",
+            "position": ["G"],
+            "height": 198.12,
+            "weight": 104.33,
+            "birthday": "1993/11/19",
+            "college": ["Virginia"]
+        },
+        {
+            "name": "Kenny Anderson",
+            "from": "1992",
+            "to": "2005",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 76.2,
+            "birthday": "1970/10/09",
+            "college": ["Georgia Tech"]
+        },
+        {
+            "name": "Kim Anderson",
+            "from": "1979",
+            "to": "1979",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 90.72,
+            "birthday": "1955/05/12",
+            "college": ["Missouri"]
+        },
+        {
+            "name": "Kyle Anderson",
+            "from": "2015",
+            "to": "2020",
+            "position": ["F", "G"],
+            "height": 205.74,
+            "weight": 104.33,
+            "birthday": "1993/09/20",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Michael Anderson",
+            "from": "1989",
+            "to": "1989",
+            "position": ["G"],
+            "height": 180.34,
+            "weight": 83.46,
+            "birthday": "1966/03/23",
+            "college": ["Drexel"]
+        },
+        {
+            "name": "Nick Anderson",
+            "from": "1990",
+            "to": "2002",
+            "position": ["F", "G"],
+            "height": 198.12,
+            "weight": 92.99,
+            "birthday": "1968/01/20",
+            "college": ["Illinois"]
+        },
+        {
+            "name": "Richard Anderson",
+            "from": "1983",
+            "to": "1990",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 108.86,
+            "birthday": "1960/11/19",
+            "college": ["UC Santa Barbara"]
+        },
+        {
+            "name": "Ron Anderson",
+            "from": "1985",
+            "to": "1994",
+            "position": ["F", "G"],
+            "height": 200.66,
+            "weight": 97.52,
+            "birthday": "1958/10/15",
+            "college": ["Fresno State"]
+        },
+        {
+            "name": "Ryan Anderson",
+            "from": "2009",
+            "to": "2020",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 108.86,
+            "birthday": "1988/05/06",
+            "college": ["California"]
+        },
+        {
+            "name": "Shandon Anderson",
+            "from": "1997",
+            "to": "2006",
+            "position": ["F", "G"],
+            "height": 198.12,
+            "weight": 94.35,
+            "birthday": "1973/12/31",
+            "college": ["Georgia"]
+        },
+        {
+            "name": "Willie Anderson",
+            "from": "1989",
+            "to": "1997",
+            "position": ["G", "F"],
+            "height": 200.66,
+            "weight": 86.18,
+            "birthday": "1967/01/08",
+            "college": ["Georgia"]
+        },
+        {
+            "name": "Wally Anderzunas",
+            "from": "1970",
+            "to": "1970",
+            "position": ["C", "F"],
+            "height": 200.66,
+            "weight": 99.79,
+            "birthday": "1946/01/11",
+            "college": ["Creighton"]
+        },
+        {
+            "name": "Martynas Andriuškevičius",
+            "from": "2006",
+            "to": "2006",
+            "position": ["C"],
+            "height": 218.44,
+            "weight": 108.86,
+            "birthday": "1986/03/12",
+            "college": [""]
+        },
+        {
+            "name": "Don Anielak",
+            "from": "1955",
+            "to": "1955",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 86.18,
+            "birthday": "1930/11/01",
+            "college": ["Missouri State University"]
+        },
+        {
+            "name": "Ike Anigbogu",
+            "from": "2018",
+            "to": "2019",
+            "position": ["F", "C"],
+            "height": 208.28,
+            "weight": 113.4,
+            "birthday": "1998/10/17",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Michael Ansley",
+            "from": "1990",
+            "to": "1992",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 102.06,
+            "birthday": "1967/02/08",
+            "college": ["Alabama"]
+        },
+        {
+            "name": "Chris Anstey",
+            "from": "1998",
+            "to": "2000",
+            "position": ["C"],
+            "height": 213.36,
+            "weight": 112.94,
+            "birthday": "1975/01/01",
+            "college": [""]
+        },
+        {
+            "name": "Giannis Antetokounmpo",
+            "from": "2014",
+            "to": "2020",
+            "position": ["F", "G"],
+            "height": 210.82,
+            "weight": 109.77,
+            "birthday": "1994/12/06",
+            "college": [""]
+        },
+        {
+            "name": "Kostas Antetokounmpo",
+            "from": "2019",
+            "to": "2020",
+            "position": ["F"],
+            "height": 208.28,
+            "weight": 90.72,
+            "birthday": "1997/11/20",
+            "college": ["Dayton"]
+        },
+        {
+            "name": "Thanasis Antetokounmpo",
+            "from": "2016",
+            "to": "2020",
+            "position": ["F"],
+            "height": 198.12,
+            "weight": 99.34,
+            "birthday": "1992/07/18",
+            "college": [""]
+        },
+        {
+            "name": "Carmelo Anthony",
+            "from": "2004",
+            "to": "2020",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 107.95,
+            "birthday": "1984/05/29",
+            "college": ["Syracuse"]
+        },
+        {
+            "name": "Greg Anthony",
+            "from": "1992",
+            "to": "2002",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 79.83,
+            "birthday": "1967/11/15",
+            "college": ["University of Portland", " UNLV"]
+        },
+        {
+            "name": "Joel Anthony",
+            "from": "2008",
+            "to": "2017",
+            "position": ["C"],
+            "height": 205.74,
+            "weight": 111.13,
+            "birthday": "1982/08/09",
+            "college": ["UNLV"]
+        },
+        {
+            "name": "Pero Antić",
+            "from": "2014",
+            "to": "2015",
+            "position": ["C", "F"],
+            "height": 210.82,
+            "weight": 117.93,
+            "birthday": "1982/07/29",
+            "college": [""]
+        },
+        {
+            "name": "OG Anunoby",
+            "from": "2018",
+            "to": "2020",
+            "position": ["F"],
+            "height": 200.66,
+            "weight": 105.23,
+            "birthday": "1997/07/17",
+            "college": ["Indiana"]
+        },
+        {
+            "name": "Keith Appling",
+            "from": "2016",
+            "to": "2016",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 83.91,
+            "birthday": "1992/02/13",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Rafael Araújo",
+            "from": "2005",
+            "to": "2007",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 127.01,
+            "birthday": "1980/08/12",
+            "college": ["BYU"]
+        },
+        {
+            "name": "Stacey Arceneaux",
+            "from": "1962",
+            "to": "1962",
+            "position": ["F"],
+            "height": 193.04,
+            "weight": 95.25,
+            "birthday": "1936/02/17",
+            "college": ["Iowa State"]
+        },
+        {
+            "name": "Robert Archibald",
+            "from": "2003",
+            "to": "2004",
+            "position": ["F"],
+            "height": 210.82,
+            "weight": 113.4,
+            "birthday": "1980/03/29",
+            "college": ["Illinois"]
+        },
+        {
+            "name": "Tiny Archibald*",
+            "from": "1971",
+            "to": "1984",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 68.04,
+            "birthday": "1948/09/02",
+            "college": ["Texas-El Paso"]
+        },
+        {
+            "name": "Ryan Arcidiacono",
+            "from": "2018",
+            "to": "2020",
+            "position": ["G"],
+            "height": 190.5,
+            "weight": 88.45,
+            "birthday": "1994/03/26",
+            "college": ["Villanova"]
+        },
+        {
+            "name": "Jim Ard",
+            "from": "1971",
+            "to": "1978",
+            "position": ["F", "C"],
+            "height": 203.2,
+            "weight": 97.52,
+            "birthday": "1948/09/19",
+            "college": ["Cincinnati"]
+        },
+        {
+            "name": "Gilbert Arenas",
+            "from": "2002",
+            "to": "2012",
+            "position": ["G"],
+            "height": 190.5,
+            "weight": 86.64,
+            "birthday": "1982/01/06",
+            "college": ["Arizona"]
+        },
+        {
+            "name": "Trevor Ariza",
+            "from": "2005",
+            "to": "2020",
+            "position": ["F"],
+            "height": 203.2,
+            "weight": 97.52,
+            "birthday": "1985/06/30",
+            "college": ["UCLA"]
+        },
+        {
+            "name": "Paul Arizin*",
+            "from": "1951",
+            "to": "1962",
+            "position": ["F", "G"],
+            "height": 193.04,
+            "weight": 86.18,
+            "birthday": "1928/04/09",
+            "college": ["Villanova"]
+        },
+        {
+            "name": "Joe Arlauckas",
+            "from": "1988",
+            "to": "1988",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 104.33,
+            "birthday": "1965/07/20",
+            "college": ["Niagara University"]
+        },
+        {
+            "name": "B.J. Armstrong",
+            "from": "1990",
+            "to": "2000",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 79.38,
+            "birthday": "1967/09/09",
+            "college": ["Iowa"]
+        },
+        {
+            "name": "Bob Armstrong",
+            "from": "1957",
+            "to": "1957",
+            "position": ["C", "F"],
+            "height": 203.2,
+            "weight": 99.79,
+            "birthday": "1933/06/17",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Brandon Armstrong",
+            "from": "2002",
+            "to": "2004",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 85.28,
+            "birthday": "1980/06/16",
+            "college": ["Pepperdine"]
+        },
+        {
+            "name": "Curly Armstrong",
+            "from": "1949",
+            "to": "1951",
+            "position": ["G", "F"],
+            "height": 180.34,
+            "weight": 77.11,
+            "birthday": "1918/11/01",
+            "college": ["Indiana"]
+        },
+        {
+            "name": "Darrell Armstrong",
+            "from": "1995",
+            "to": "2008",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 77.11,
+            "birthday": "1968/06/22",
+            "college": ["Fayetteville State University"]
+        },
+        {
+            "name": "Hilton Armstrong",
+            "from": "2007",
+            "to": "2014",
+            "position": ["F", "C"],
+            "height": 210.82,
+            "weight": 106.59,
+            "birthday": "1984/11/11",
+            "college": ["UConn"]
+        },
+        {
+            "name": "Tate Armstrong",
+            "from": "1978",
+            "to": "1979",
+            "position": ["G"],
+            "height": 190.5,
+            "weight": 79.38,
+            "birthday": "1955/10/05",
+            "college": ["Duke"]
+        },
+        {
+            "name": "Jesse Arnelle",
+            "from": "1956",
+            "to": "1956",
+            "position": ["F"],
+            "height": 195.58,
+            "weight": 99.79,
+            "birthday": "1933/12/30",
+            "college": ["Penn State"]
+        },
+        {
+            "name": "Jay Arnette",
+            "from": "1964",
+            "to": "1966",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 79.38,
+            "birthday": "1938/12/19",
+            "college": ["Texas"]
+        },
+        {
+            "name": "Bob Arnzen",
+            "from": "1970",
+            "to": "1974",
+            "position": ["F"],
+            "height": 195.58,
+            "weight": 92.99,
+            "birthday": "1947/11/03",
+            "college": ["Notre Dame"]
+        },
+        {
+            "name": "Carlos Arroyo",
+            "from": "2002",
+            "to": "2011",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 91.63,
+            "birthday": "1979/07/30",
+            "college": ["Florida International University"]
+        },
+        {
+            "name": "Darrell Arthur",
+            "from": "2009",
+            "to": "2018",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 106.59,
+            "birthday": "1988/03/25",
+            "college": ["Kansas"]
+        },
+        {
+            "name": "John Arthurs",
+            "from": "1970",
+            "to": "1970",
+            "position": ["G"],
+            "height": 193.04,
+            "weight": 83.91,
+            "birthday": "1947/08/15",
+            "college": ["Tulane"]
+        },
+        {
+            "name": "Jamel Artis",
+            "from": "2018",
+            "to": "2018",
+            "position": ["G", "F"],
+            "height": 200.66,
+            "weight": 96.62,
+            "birthday": "1993/01/12",
+            "college": ["Pitt"]
+        },
+        {
+            "name": "Ömer Aşık",
+            "from": "2011",
+            "to": "2018",
+            "position": ["C"],
+            "height": 213.36,
+            "weight": 115.67,
+            "birthday": "1986/07/04",
+            "college": [""]
+        },
+        {
+            "name": "Vincent Askew",
+            "from": "1988",
+            "to": "1998",
+            "position": ["G", "F"],
+            "height": 198.12,
+            "weight": 95.25,
+            "birthday": "1966/02/28",
+            "college": ["Memphis"]
+        },
+        {
+            "name": "Keith Askins",
+            "from": "1991",
+            "to": "1999",
+            "position": ["G", "F"],
+            "height": 200.66,
+            "weight": 89.36,
+            "birthday": "1967/12/15",
+            "college": ["Alabama"]
+        },
+        {
+            "name": "Don Asmonga",
+            "from": "1954",
+            "to": "1954",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 83.91,
+            "birthday": "1928/02/15",
+            "college": ["Alliance College"]
+        },
+        {
+            "name": "Dick Atha",
+            "from": "1956",
+            "to": "1958",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 86.18,
+            "birthday": "1931/09/21",
+            "college": ["Indiana State University"]
+        },
+        {
+            "name": "Chucky Atkins",
+            "from": "2000",
+            "to": "2010",
+            "position": ["G"],
+            "height": 180.34,
+            "weight": 72.57,
+            "birthday": "1974/08/14",
+            "college": ["South Florida"]
+        },
+        {
+            "name": "Al Attles*",
+            "from": "1961",
+            "to": "1971",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 79.38,
+            "birthday": "1936/11/07",
+            "college": ["North Carolina A&T"]
+        },
+        {
+            "name": "Chet Aubuchon",
+            "from": "1947",
+            "to": "1947",
+            "position": ["G"],
+            "height": 177.8,
+            "weight": 62.14,
+            "birthday": "1916/05/18",
+            "college": ["Michigan State"]
+        },
+        {
+            "name": "Stacey Augmon",
+            "from": "1992",
+            "to": "2006",
+            "position": ["F", "G"],
+            "height": 203.2,
+            "weight": 92.99,
+            "birthday": "1968/08/01",
+            "college": ["UNLV"]
+        },
+        {
+            "name": "D.J. Augustin",
+            "from": "2009",
+            "to": "2020",
+            "position": ["G"],
+            "height": 180.34,
+            "weight": 83.01,
+            "birthday": "1987/11/10",
+            "college": ["Texas"]
+        },
+        {
+            "name": "James Augustine",
+            "from": "2007",
+            "to": "2008",
+            "position": ["F"],
+            "height": 208.28,
+            "weight": 106.59,
+            "birthday": "1984/02/27",
+            "college": ["Illinois"]
+        },
+        {
+            "name": "Isaac Austin",
+            "from": "1992",
+            "to": "2002",
+            "position": ["C"],
+            "height": 208.28,
+            "weight": 115.67,
+            "birthday": "1969/08/18",
+            "college": ["Arizona State"]
+        },
+        {
+            "name": "Johnny Austin",
+            "from": "1967",
+            "to": "1968",
+            "position": ["G"],
+            "height": 182.88,
+            "weight": 77.11,
+            "birthday": "1944/08/31",
+            "college": ["Boston College"]
+        },
+        {
+            "name": "Ken Austin",
+            "from": "1984",
+            "to": "1984",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 92.99,
+            "birthday": "1961/07/15",
+            "college": ["Rice University"]
+        },
+        {
+            "name": "Anthony Avent",
+            "from": "1993",
+            "to": "2000",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 106.59,
+            "birthday": "1969/10/18",
+            "college": ["Seton Hall"]
+        },
+        {
+            "name": "Bird Averitt",
+            "from": "1974",
+            "to": "1978",
+            "position": ["G"],
+            "height": 185.42,
+            "weight": 77.11,
+            "birthday": "1952/07/22",
+            "college": ["Pepperdine"]
+        },
+        {
+            "name": "William Avery",
+            "from": "2000",
+            "to": "2002",
+            "position": ["G"],
+            "height": 187.96,
+            "weight": 89.36,
+            "birthday": "1979/08/08",
+            "college": ["Duke"]
+        },
+        {
+            "name": "Dennis Awtrey",
+            "from": "1971",
+            "to": "1982",
+            "position": ["C"],
+            "height": 208.28,
+            "weight": 106.59,
+            "birthday": "1948/02/22",
+            "college": ["Santa Clara"]
+        },
+        {
+            "name": "Gustavo Ayón",
+            "from": "2012",
+            "to": "2014",
+            "position": ["C"],
+            "height": 208.28,
+            "weight": 113.4,
+            "birthday": "1985/04/01",
+            "college": [""]
+        },
+        {
+            "name": "Jeff Ayres",
+            "from": "2010",
+            "to": "2016",
+            "position": ["F"],
+            "height": 205.74,
+            "weight": 108.86,
+            "birthday": "1987/04/29",
+            "college": ["Arizona State"]
+        },
+        {
+            "name": "Deandre Ayton",
+            "from": "2019",
+            "to": "2020",
+            "position": ["C"],
+            "height": 210.82,
+            "weight": 113.4,
+            "birthday": "1998/07/23",
+            "college": ["Arizona"]
+        },
+        {
+            "name": "Kelenna Azubuike",
+            "from": "2007",
+            "to": "2012",
+            "position": ["G"],
+            "height": 195.58,
+            "weight": 99.79,
+            "birthday": "1983/12/16",
+            "college": ["Kentucky"]
+        }
+    ]
+}
